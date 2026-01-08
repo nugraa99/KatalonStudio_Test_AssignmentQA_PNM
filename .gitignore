@@ -1,0 +1,25 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+
+Reports/
+*.log
+*.tmp
+*.bak
+# Ignore Excel temporary files
+~$*.xlsx
