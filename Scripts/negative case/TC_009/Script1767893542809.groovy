@@ -21,7 +21,7 @@ import org.testng.asserts.Assertion
 import com.kms.katalon.core.testdata.TestData
 import com.kms.katalon.core.testdata.TestDataFactory
 
-// ambil data file
+// ambil data files yang tersedia
 TestData data = TestDataFactory.findTestData('inputfield')
 
 // buka chrome
