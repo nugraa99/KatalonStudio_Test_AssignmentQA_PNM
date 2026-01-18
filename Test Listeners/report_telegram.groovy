@@ -24,7 +24,7 @@ class report_telegram {
 
 	
 	@AfterTestSuite
-	def sentTele(TestSuiteContext context) {
+	def sentTelegram(TestSuiteContext context) {
 
 		println("=== LISTENER MASUK ===")
 
