@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>practiceform</name>
+   <name>negative_case</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,83 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8eab3f5a-b38d-4238-9aba-1baefdb4a678</testSuiteGuid>
+   <testSuiteGuid>96b9e2c5-3704-4d6e-9952-b19d17024acb</testSuiteGuid>
    <testCaseLink>
-      <guid>474b2b42-0242-4f35-94fb-2ef0ad90d88a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/positif case/TC_001</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0ebd76f7-0288-49a0-917a-fa1f31d0a85e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c448f9d6-1e15-49c4-8cd9-7573d917d371</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bcb630a8-9963-4f08-81d2-70f9721dc067</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6e7a241e-fbc2-4be4-8710-cdf7a32581bf</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e91b1289-338d-45ce-a6e5-61664c5f9618</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2866a84c-d765-43ce-8156-57fb1db66f2c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/positif case/TC_002</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f1b11b5c-6096-4e6f-9489-22119f7bc6bc</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>82951538-05bd-4700-93a2-9f2ef3c3dc71</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>85b1cd64-5181-416f-9d11-bce90c37bb94</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a80a4a44-5cdf-41f6-aac5-090f12d8c2a9</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2adf7f33-ee5c-4e64-8489-36fc74507453</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1fa472c4-7514-478e-856c-04eb858d4179</guid>
+      <guid>153d0dc0-b715-4f3d-9728-79c315a13ac5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_001</testCaseId>
@@ -123,7 +49,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>3b0eb9d5-0812-4760-b1f2-093e1514d885</guid>
+      <guid>b1fea80a-9d2f-418b-8dac-fbcce7fade07</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_002</testCaseId>
@@ -160,7 +86,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>348e8419-3d39-40ed-b767-60331287d3c7</guid>
+      <guid>71b8be6e-c59b-4d87-a0a9-e452c55d4297</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_003</testCaseId>
@@ -197,7 +123,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>941d3a5d-bb6a-4f01-b872-06af4d95a4e6</guid>
+      <guid>c419706f-e831-4e82-82e3-ec577bd62d1f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_004</testCaseId>
@@ -234,7 +160,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>04de1517-480e-4555-8a9c-19fa1a5190c3</guid>
+      <guid>6ceab55a-4dab-4875-b7a5-8ea37d8622c9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_005</testCaseId>
@@ -271,7 +197,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0fa79ba5-f21d-46e5-88be-0c23cee75791</guid>
+      <guid>bef2d3ec-d44f-45a8-8b6f-a23ad2544aab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_006</testCaseId>
@@ -308,7 +234,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>7bbc204b-3b4b-455c-887a-fb93c325a351</guid>
+      <guid>495bacd9-d55f-477a-a379-dc7fa1e627ca</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_007</testCaseId>
@@ -345,7 +271,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>5ab017b3-a24d-43a9-a019-af5675f743c7</guid>
+      <guid>326b3a63-23c0-42c0-a055-4567b55dd205</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_008</testCaseId>
@@ -382,7 +308,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f2d9a348-73be-4a4e-9cfd-5752a4fcb37c</guid>
+      <guid>d788e1bf-6cfa-413e-b9b6-bb771e10c861</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/negative case/TC_009</testCaseId>
