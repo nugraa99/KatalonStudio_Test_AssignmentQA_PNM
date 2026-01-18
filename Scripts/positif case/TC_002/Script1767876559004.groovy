@@ -59,7 +59,7 @@ WebUI.executeJavaScript('document.body.style.zoom=\'90%\'', null)
 	} else {
 		println "Gagal Submit"
 	}
-	WebUI.delay(1)
+	WebUI.delay(2)
 	WebUI.click(findTestObject('locator_practiceform/button_Close'))
 	WebUI.delay(1)
 
