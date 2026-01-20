@@ -20,7 +20,7 @@ import com.kms.katalon.core.annotation.AfterTestSuite
 import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
 
-class report_telegram {
+class reporting_telegram {
 
 	
 	@AfterTestSuite
